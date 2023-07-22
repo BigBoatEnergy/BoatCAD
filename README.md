@@ -1,5 +1,5 @@
-# BoatCAD
+# Boat Robot
 
-CAD boats are hard. this may help someone.
+Robot Boats are hard. this may help someone.
 
 -keith
